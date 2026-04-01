@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Data
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
