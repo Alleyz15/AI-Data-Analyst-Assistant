@@ -3,15 +3,8 @@
 A beginner-friendly, professional mini project that loads a CSV, performs basic analysis with pandas, and shows a simple chart.
 
 ## What this first version does
-- Upload a CSV in the UI
-- Preview the data
-- Show basic dataset summary (shape, dtypes, missing values)
-- Show numeric summary statistics
-- Generate a simple Plotly chart
 
 ## Project structure
-```text
-AI Data Analyst Assistant/
    app.py
    requirements.txt
    README.md
